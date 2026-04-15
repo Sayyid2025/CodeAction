@@ -1,0 +1,1 @@
+Nothing should be ignored in this case. The only file added is an image file (`videokinema_framework.png`), which according to the rules should not be added to .gitignore. There are no build artifacts, dependencies, or temporary files in the changes.
